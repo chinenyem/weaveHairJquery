@@ -1,0 +1,12 @@
+li {
+	display: inline;
+}
+
+img {
+	width: 138px;
+	height: 173px;
+}
+
+.hide{
+	display: none;
+}

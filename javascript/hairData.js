@@ -1,0 +1,103 @@
+var kurlyKlips =
+{
+	kurlyFro:{
+		bobCatFro: [
+		"http://cdn.shopify.com/s/files/1/0244/7249/products/KurlyKlipsFinalWeb-5_1024x1024_1024x1024.jpg?v=1414901006",
+		 "http://photos-f.ak.instagram.com/hphotos-ak-xfp1/10802737_316240945240933_1861090428_n.jpg", 
+		 "http://scontent-b-iad.cdninstagram.com/hphotos-xaf1/t51.2885-15/10729278_769834269747840_373623050_n.jpg",
+		 "http://photos-f.ak.instagram.com/hphotos-ak-xpa1/10254058_734709783215981_1710374871_n.jpg",
+		 "http://photos-d.ak.instagram.com/hphotos-ak-xaf1/10011336_610773762337451_377375637_n.jpg"
+		 ],
+		 shoulderFro:[
+		 "http://scontent-a-iad.cdninstagram.com/hphotos-xfp1/t51.2885-15/10747837_590455131084279_1595455736_n.jpg", 
+		 "http://photos-d.ak.instagram.com/hphotos-ak-xap1/10729372_605485929580259_1723680933_n.jpg", 
+		 "http://photos-d.ak.instagram.com/hphotos-ak-xap1/10691907_747974415251051_310863096_n.jpg", 
+		 "http://photos-e.ak.instagram.com/hphotos-ak-xfp1/10691875_344303225731428_768660480_n.jpg", 
+		 "http://photos-a.ak.instagram.com/hphotos-ak-xap1/10632192_312647382254056_1688910313_n.jpg",
+		 "http://photos-h.ak.instagram.com/hphotos-ak-xfp1/10616791_384160168399319_1253632842_n.jpg",
+		 "http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10251318_1494148407474905_1331336178_n.jpg"
+		 ],
+		 mermaidFro:[
+		 "http://cdn.shopify.com/s/files/1/0244/7249/products/White_dress_front_page_1024x1024.jpg?v=1414900968", 
+		 "http://photos-g.ak.instagram.com/hphotos-ak-xpa1/923822_1489877934597902_1743961072_n.jpg", 
+		 "http://photos-h.ak.instagram.com/hphotos-ak-xpa1/10727778_367123150104487_1155174063_n.jpg", 
+		 "http://photos-h.ak.instagram.com/hphotos-ak-xfp1/10326377_1513805518856287_945832555_n.jpg", 
+		 "http://scontent-a-iad.cdninstagram.com/hphotos-xpa1/t51.2885-15/10507881_1598162520410241_258281099_n.jpg", 
+		 "http://photos-h.ak.instagram.com/hphotos-ak-xpa1/928303_269716956545735_1182529991_n.jpg",
+		 "http://photos-g.ak.instagram.com/hphotos-ak-xfp1/10471848_463200320450150_53685132_n.jpg",
+		 "http://photos-d.ak.instagram.com/hphotos-ak-xpf1/10245953_682384581828979_422693141_n.jpg",
+		 "http://scontent-b-iad.cdninstagram.com/hphotos-xpa1/t51.2885-15/1172990_471683219628666_2009949783_n.jpg",
+		 "http://photos-g.ak.instagram.com/hphotos-ak-xpa1/927920_1422971517957654_1793403706_n.jpg"
+		 ]
+	},
+	KurlySpirals:{
+		bobcatSpirals:[
+		"http://photos-d.ak.instagram.com/hphotos-ak-xpa1/10684088_434005146737811_1454432306_n.jpg",
+		"http://photos-g.ak.instagram.com/hphotos-ak-xap1/10448909_1433572553586662_607090188_n.jpg",
+		"http://photos-e.ak.instagram.com/hphotos-ak-xpa1/925067_354078251415316_2100170318_n.jpg",
+		"http://photos-d.ak.instagram.com/hphotos-ak-xpa1/10598630_492366934199163_1687308366_n.jpg",
+		"http://photos-d.ak.instagram.com/hphotos-ak-xap1/1737555_1418931085032795_1448653632_n.jpg",
+		"http://photos-h.ak.instagram.com/hphotos-ak-xaf1/10005331_646529275401711_67937581_n.jpg",
+		"http://cdn.shopify.com/s/files/1/0244/7249/products/KurlyKlipsFinalWeb-9_1024x1024_1024x1024.jpg?v=1414901087"
+		],
+		shoulderSpirals:["",
+		"http://photos-b.ak.instagram.com/hphotos-ak-xpa1/926462_1415821068692385_1417251057_n.jpg",
+		"http://scontent-a-atl.cdninstagram.com/hphotos-xfp1/t51.2885-15/10268919_453631584772042_618786677_n.jpg",
+		"http://scontent-a-atl.cdninstagram.com/hphotos-xfa1/t51.2885-15/10731845_1519523638334377_612708621_n.jpg",
+		"http://photos-a.ak.instagram.com/hphotos-ak-xap1/10598790_1477174362554336_279317561_n.jpg",
+		"http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10560928_1461318454121665_743242323_n.jpg",
+		"http://photos-h.ak.instagram.com/hphotos-ak-xpa1/10467890_693119437392511_554226994_n.jpg",
+		"http://photos-d.ak.instagram.com/hphotos-ak-xap1/10245963_236363633231243_544067845_n.jpg"
+		],
+		mermaidSpirals : [
+		"http://photos-c.ak.instagram.com/hphotos-ak-xpf1/10748009_725496020838194_119132238_n.jpg",
+		"http://photos-a.ak.instagram.com/hphotos-ak-xaf1/1689936_1698933626998008_766413816_n.jpg",
+		"http://photos-h.ak.instagram.com/hphotos-ak-xap1/925305_1499991013572271_916679442_n.jpg",
+		"http://photos-d.ak.instagram.com/hphotos-ak-xap1/10691694_343732939119835_787490274_n.jpg",
+		"http://photos-h.ak.instagram.com/hphotos-ak-xfp1/10362312_325327960947991_889004141_n.jpg",
+		"http://photos-b.ak.instagram.com/hphotos-ak-xfp1/10401658_260935344092521_1068297385_n.jpg",
+		"http://scontent-b-atl.cdninstagram.com/hphotos-xfp1/t51.2885-15/1742791_639278986151285_1978204335_n.jpg",
+		"http://photos-d.ak.instagram.com/hphotos-ak-xpa1/10246202_508200465951435_1169056890_n.jpg"
+		]
+	}
+
+}
+
+var indiqueBounce ={
+	bounceCurl:[
+	"https://s3.amazonaws.com/olapic-medias/media/h/k/s/hksd873/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/5/y/g/5yg8bf3/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/i/w/o/iwooso/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/w/u/v/wuvuv73/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/d/y/3/dy3tp63/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/x/e/7/xe7eui3/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/r/e/6/re69743/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/a/3/r/a3rba6/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/k/g/3/kg3tx53/masonry.jpg",
+	"https://s3.amazonaws.com/olapic-medias/media/m/e/m/memhrw/masonry.jpg"
+	]
+}
+
+var onycnaturalHair={
+	tightkinkyCurl:[
+	"https://www.onychair.com/images/com_rsmonials/31.jpg",
+	"https://www.onychair.com/images/com_rsmonials/649.jpg",
+	"https://www.onychair.com/images/com_rsmonials/86.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_textures_1_20140117_1682360775.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_textures_1_20140117_1916126914.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_textures_1_20140117_1919500137.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_3b3c_2_20140303_1910300802.jpg"
+	],
+	kinykinkyCurl:[
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_hair_1_20140616_1964970453.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_3b3c_9_20140303_1051153608.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_hair_2_20140616_1817010356.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_texture_1_20140118_1164687162.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_texture_2_20140118_1102440336.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_texture_4_20140118_1802234109.jpg",
+	"https://www.onychair.com/images/joomgallery/thumbnails/kinky_curly_textures_2/kinky_curly_texture_5_20140118_1232068814.jpg",
+	"https://www.onychair.com/images/com_rsmonials/645.jpg",
+	"https://www.onychair.com/images/com_rsmonials/650.jpg"
+	]
+
+}

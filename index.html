@@ -1,0 +1,67 @@
+<!Doctype html>
+<html lang="eng">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="Simple Hair Search App">
+		<meta name="keywords" content="Hair, weave, javascript, video">
+		<meta name="author" content="Chinenyem Nwadiugwu">
+		<title>My favorite Weaves</title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+<body>
+	<div class="input">
+		<form class="inputFormpicture" action="">
+			<h3>Name:</h3> <input type="text" id="name" required>
+			<h3>Natural or Not?</h3> 
+			<input id="natural" type="checkbox" name="natural" value="naturalHair"> Naturalista I am!<br>
+			<input id="notnatural" type="checkbox" name="notnatural" value="naturalHair"> Naturalista I am not, Permed!<br>
+			<h3>Kurly Klips Afro Weave Choice:</h3>
+			<select class="hairone" name="Hairone" id="hairOne">
+				<option value="empty">empty</option>
+				<option value="weaveoneStr">Bobcat Fro</option>
+				<option value="weavetwoStr">Shoulder Chic Fro</option>
+				<option value="mermaidfroVal">Mermaid Chic Fro</option>
+			</select>
+			<h2>Choice Gallery:</h2>
+			<section id="haironePic"></section><section id="hairtwoPic"></section>
+			<h3>OR the Kurly Klips Spiral Choice:</h3>
+			<select class="hairtwo" name="Hairtwo" id="hairTwo">
+				<option value="bobcatspiVal">Bobcat Spirals</option>
+				<option value="shoulderchispiVal">Shoulder Chic Spirals</option>
+				<option value="mermaidspriVal">Mermaid Chic Spirals</option>
+			</select>
+			<h2>Choice Gallery:</h2>
+			<section id="hairtwoPic">
+				
+			</section>
+			<h3>Indique Natural Weave:</h3>
+			<select class="hairthree" name="Hairthree" id="hairThree">
+				<option value="bouncecurl">Bounce Organic</option>
+			</select>
+			<h2>Choice Gallery:</h2>
+			<section id="hairthreePic">
+				
+			</section>
+			<h3>Onyc Natural Weave:</h3>
+			<select class= "hairfour" name="Hairfour" id="hairfour">
+				<option value="luxiouscurl">Tight lux kinky curl</option>
+				<option value="afrocurl">kinky lux kiky curl</option>
+			</select>
+			<h2>Choice Gallery:</h2>
+			<section id="hairfourPic">
+				
+			</section>
+		</form>
+	</div>
+
+	
+
+
+
+
+	<script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
+	<script type="text/javascript" src="node_modules/underscore/underscore-min.js"></script>
+	<script type= "text/javascript" src = "javascript/hairData.js"></script>
+	<script type= "text/javascript" src = "javascript/hair.js"></script> 
+</body>
+</html>

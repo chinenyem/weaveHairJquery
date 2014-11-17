@@ -1,0 +1,16 @@
+{
+  "name": "javascriptHair",
+  "version": "1.0.0",
+  "description": "hairapp with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hair",
+    "javascript",
+    "weave"
+  ],
+  "author": "chinenyem n",
+  "license": "ISC"
+}
