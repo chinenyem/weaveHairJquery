@@ -7,6 +7,38 @@ img {
 	height: 173px;
 }
 
-.hide{
+
+
+
+#hairweaveoneid, #hairweavetwoid, #hairweavethreeid, #hairweavefourid, 
+#hairweavefiveid, #hairweavesixid, #hairweavesevenid, #hairweaveeightid, #hairweavenineid{
+	display:none;
+}
+
+
+body {
+	font-size: 12px;
+	font-family: Arial, Helevtica, Verdana, san-serif;
+	color: #333;
+	background: #f9f9f9;
+	text-align:center;
+}
+
+#content {
+	max-width:960px;
+	margin: 0 auto;
+	text-align:left;
+	width: 100%;
+}
+
+#content h1{
+	text-align:center;	
+	font-family: 'Shadows Into Light', cursive;
+	font-size:55px;
+	text-shadow:1px 1px #fff;
+}
+
+#socialTimeline {
+	margin: 0 auto;	
 	display: none;
 }
