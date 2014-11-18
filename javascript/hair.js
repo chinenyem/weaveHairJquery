@@ -53,9 +53,9 @@ $(document).ready(function(){
 	// }
 
 
-				 $("select.hairone").change(function(){
+				 $("select.haironeshirly").change(function(){
 				 	event.preventDefault();
-				            $( "select option:selected").each(function(){
+				            $( "select.haironeshirly option:selected").each(function(){
 				                if($(this).attr("value")=="bobcatfroVal"){
 				                    $("#hairweavetwoid").hide();
 				                    $("#hairweavethreeid").hide();
@@ -82,9 +82,9 @@ $(document).ready(function(){
 				
 
 
-				 $("select.hairtwo").change(function(){
+				 $("select.hairtwomarry").change(function(){
 				 	event.preventDefault();
-								    $( "select option:selected").each(function(){
+								    $( "select.hairtwomarry option:selected").each(function(){
 								        if($(this).attr("value")=="bobcatspiVal"){
 								            $("#hairweavefourid").show();
 								            $("#hairweavefiveid").hide();
@@ -111,9 +111,9 @@ $(document).ready(function(){
 
 			
 
-				$("select.hairthree").change(function(){
+				$("select.hairthreeann").change(function(){
 					event.preventDefault();
-								    $( "select option:selected").each(function(){
+								    $( "select.hairthreeann option:selected").each(function(){
 								        if($(this).attr("value")=="bouncecurl"){
 								            $("#hairweavesevenid").show();
 								         
@@ -128,9 +128,9 @@ $(document).ready(function(){
 
 				
 
-				$("select.hairfour").change(function(){
+				$("select.hairfourlizbeth").change(function(){
 					event.preventDefault();
-								    $( "select option:selected").each(function(){
+								    $( "select.hairfourlizbeth option:selected").each(function(){
 								        if($(this).attr("value")=="luxiouscurl"){
 								            $("#hairweaveeightid").show();
 								            $("#hairweavenineid").hide();
